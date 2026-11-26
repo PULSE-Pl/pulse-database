@@ -7,9 +7,9 @@
 ## 🎯 Mission & Vision
 **P.U.L.S.E.** is a collaborative engineering knowledge base and open-source ecosystem dedicated to linear infrastructure: highways, urban street networks, bridges, railways, pipelines, and utility corridors.
 
-Applied science thrives only when people are genuinely drawn to it. Traditional academic journals and design codes are too often locked behind paywalls or buried under impenetrable bureaucratic jargon — creating an artificial barrier that drives curious minds away from STEM fields. We reject the false choice between dry, unreadable formalism and oversimplified pop-science, reviving the classical tradition of clear, engaging, and intellectually honest discourse.
+Peer-reviewed academic journals and official design codes form the essential foundation of engineering rigor. Yet between dense normative literature and mass-market popular science, there remains an untapped space for accessible, engaging, and intellectually honest discourse. **P.U.L.S.E.** fills this space by reviving the classical tradition of clear scientific communication — making complex applied engineering genuinely readable and inspiring the next generation of STEM specialists.
 
-At the same time, **P.U.L.S.E.** is built as a borderless mutual-aid community for practicing infrastructure engineers worldwide. By dismantling regional, institutional, and proprietary silos, we foster open exchange of real-world design experience, calculation methodologies, and CAD/BIM automation tools — so that engineers anywhere in the world do not have to reinvent the wheel alone.
+At the same time, **P.U.L.S.E.** operates as a borderless mutual-aid community for practicing infrastructure engineers worldwide. Complementing formal publications, we dismantle regional, institutional, and proprietary silos to foster open exchange of practical design experience, calculation methodologies, and CAD/BIM automation tools — so that engineers anywhere in the world do not have to reinvent the wheel alone.
 
 ---
 
