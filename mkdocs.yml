@@ -9,19 +9,19 @@ site_dir: ../site
 
 theme:
   name: material
+  icon:
+    logo: material/road-variant
   palette:
-    # Light mode palette (default)
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    # Light mode
+    - scheme: default
       primary: teal
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
 
-    # Dark mode palette (slate)
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    # Dark mode
+    - scheme: slate
       primary: teal
       accent: indigo
       toggle:
@@ -46,3 +46,8 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+
+copyright: Copyright &copy; 2026 P.U.L.S.E. — Public Utilities & Linear Structures Engineering
+
+extra_css:
+  - stylesheets/extra.css
