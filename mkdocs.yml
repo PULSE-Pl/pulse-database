@@ -10,9 +10,23 @@ site_dir: ../site
 theme:
   name: material
   palette:
-    - scheme: default
+    # Light mode palette (default)
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: teal
       accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Dark mode palette (slate)
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - navigation.instant
     - navigation.tracking
