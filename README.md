@@ -18,9 +18,9 @@ Our repository is organized into three progressive tracks designed for different
 
 | Track | Focus Area | Target Audience |
 | :--- | :--- | :--- |
-| **01. Industry Overview** | Global infrastructure landscape, sector analysis, standards overview, and fundamentals | Students, enthusiasts, and anyone exploring the industry |
-| **02. Career Guides** | Professional roadmaps, interview prep, relocation insights, and career milestones | Aspiring and practicing engineers planning their growth |
-| **03. Articles & Automation** | Open-source scripts, technical articles, CAD/BIM workflows, and R&D notes | Engineers, developers, and researchers building technical solutions |
+| **01. Industry Overview** | Global infrastructure landscape, sector analysis, standards overview, and fundamentals | High school students, university applicants, enthusiasts, and anyone exploring the industry |
+| **02. Career Guides** | Professional roadmaps, interview prep, relocation insights, and career milestones | University students and graduate engineers planning their growth |
+| **03. Articles & Automation** | Open-source scripts, technical articles, CAD/BIM workflows, and R&D notes | Pcractcing engineers, developers, and researchers building technical solutions |
 
 ---
 
