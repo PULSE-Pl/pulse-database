@@ -4,10 +4,8 @@ site_url: https://pulse-pl.github.io/pulse-database/
 repo_url: https://github.com/pulse-pl/pulse-database
 repo_name: pulse-pl/pulse-database
 
-docs_dir: .
-exclude_docs: |
-  site/
-  .github/
+docs_dir: docs
+site_dir: ../site
 
 theme:
   name: material
