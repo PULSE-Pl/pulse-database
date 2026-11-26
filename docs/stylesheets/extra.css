@@ -1,11 +1,7 @@
 .md-copyright {
-  font-size: 0.85rem;
+  font-size: 0;
 }
 
 .md-copyright__highlight {
-  display: block;
-}
-
-.md-copyright small {
-  display: none;
+  font-size: 0.75rem;
 }
