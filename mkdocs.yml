@@ -1,0 +1,31 @@
+site_name: P.U.L.S.E.
+site_description: Open-source international platform for infrastructure engineers
+site_url: https://pulse-pl.github.io/pulse-database/
+repo_url: https://github.com/pulse-pl/pulse-database
+repo_name: pulse-pl/pulse-database
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: indigo
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Home: README.md
+  - 01. Industry Overview: 01-industry-overview/README.md
+  - 02. Career Guides: 02-career-guides/README.md
+  - 03. Articles & Automation: 03-articles-automation/README.md
+  - Contributing Charter: CONTRIBUTING.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
