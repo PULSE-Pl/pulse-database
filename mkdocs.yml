@@ -9,7 +9,6 @@ site_dir: ../site
 
 theme:
   name: material
-  logo: assets/logo.png
   favicon: assets/pulse_favicon.ico
   palette:
     # Light mode
