@@ -9,8 +9,8 @@ site_dir: ../site
 
 theme:
   name: material
-  logo: assets/logo.png        # Твой основной логотип
-  favicon: assets/pulse_favicon.ico  # Фавикон на вкладке браузера
+  logo: assets/logo.png
+  favicon: assets/pulse_favicon.ico
   palette:
     # Light mode
     - scheme: default
