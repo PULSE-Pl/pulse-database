@@ -1,5 +1,8 @@
-name: Deploy MkDocs to GitHub Pages
-
+- name: Prepare docs directory
+        run: |
+          mkdir -p docs
+          cp README.md CONTRIBUTING.md docs/
+          cp -r 01-industry-overview 02-career-guides 03-articles-automation assets stylesheets docs/
 on:
   push:
     branches:
