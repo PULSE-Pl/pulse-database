@@ -9,8 +9,8 @@ site_dir: ../site
 
 theme:
   name: material
-  icon:
-    logo: material/road-variant
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   palette:
     # Light mode
     - scheme: default
