@@ -8,8 +8,8 @@ This track focuses on career development in linear infrastructure engineering: a
 
 ## 📚 Planned Topics & Index
 
-* *01. Highway & Infrastructure Design Engineer Roadmap (From Graduate to Senior)* — **Planned**
-* *02. Technical Interview Preparation & Core Geometric Design Questions* — **Planned**
+* *01. Civil Infrastructure Engineer Roadmap (From Graduate to Senior)* — **Planned**
+* *02. Technical Interview Preparation* — **Planned**
 * *03. International Engineering Licensure & Standards Adaptation (CEng, PE, Regional Codes)* — **Planned**
 
 ---
