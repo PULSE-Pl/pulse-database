@@ -18,11 +18,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install mkdocs-material
+      - run: pip install mkdocs-material mkdocs-static-i18n
       - name: Prepare docs directory
         run: |
           mkdir -p docs
-          cp README.md CONTRIBUTING.md docs/
+          cp README*.md CONTRIBUTING*.md docs/
           cp -r 01-industry-overview 02-career-guides 03-articles-automation assets docs/
       - run: mkdocs build
       - uses: actions/upload-pages-artifact@v3
