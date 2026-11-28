@@ -8,9 +8,9 @@ This track houses applied engineering research, deep-dive technical articles, CA
 
 ## 📚 Planned Topics & Index
 
-* *01. Automating Linear Infrastructure* — **Planned**
-* *02. Interoperability & Open-Source Scripting in Civil CAD/BIM Environments* — **Planned**
-* *03. Comparative Technical Notes & Alignment Optimization* — **Planned**
+* *Automating Linear Infrastructure* — **Planned**
+* *Methods of calculation and solution of engineering problems* — **Planned**
+* *P.U.L.S.E. Journal* — **Planned**
 
 ---
 
