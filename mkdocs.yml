@@ -32,12 +32,33 @@ theme:
     - search.highlight
     - content.code.copy
 
-nav:
-  - Home: README.md
-  - 01. Industry Overview: 01-industry-overview/README.md
-  - 02. Career Guides: 02-career-guides/README.md
-  - 03. Articles & Automation: 03-articles-automation/README.md
-  - Contributing Charter: CONTRIBUTING.md
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+          nav:
+            - Home: README.md
+            - 01. Industry Overview: 01-industry-overview/README.md
+            - 02. Career Guides: 02-career-guides/README.md
+            - 03. Articles & Automation: 03-articles-automation/README.md
+            - Contributing Charter: CONTRIBUTING.md
+        - locale: ru
+          name: Русский
+          build: true
+          nav:
+            - Главная: README.ru.md
+            - Обзор отрасли: 01-industry-overview/README.ru.md
+            - Гайды по карьере: 02-career-guides/README.ru.md
+            - Статьи и автоматизация: 03-articles-automation/README.ru.md
+            - Устав участников: CONTRIBUTING.ru.md
 
 markdown_extensions:
   - admonition
@@ -48,5 +69,4 @@ markdown_extensions:
 
 copyright: Copyright &copy; 2026 P.U.L.S.E. — Public Utilities & Linear Structures Engineering
 
-extra_css:
-  - stylesheets/extra.css
+
