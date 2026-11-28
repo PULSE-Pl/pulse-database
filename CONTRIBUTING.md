@@ -48,7 +48,7 @@ Welcome to **P.U.L.S.E.** (*Public Utilities & Linear Structures Engineering*). 
 
 1. **Choose the Right Track:**
    * `01-industry-overview/` — Sector fundamentals, standards overviews, terminology.
-   * `02-career-guides/` — Career roadmaps, interview preparation, relocation insights.
+   * `02-career-guides/` — Career roadmaps, interview preparation, employment insights.
    * `03-articles-automation/` — Technical articles, CAD/BIM scripts, open-source tools.
 2. **File Naming:** Use lowercase `kebab-case` (e.g., `geometric-design-standards-overview.md`).
 3. **Pull Requests:** Fork the repository, create a descriptive branch, and submit a Pull Request with a clear summary of your contribution.
